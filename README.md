@@ -51,7 +51,22 @@ pl_monthly.csv ──► 1. Python / pandas ──► 2. Claude ──► 3. Gua
 
 **AI commentary**
 
-> _Paste the Commentary section from your `flash_report_2026-10.md` here._
+_Written by the agent from the numbers above. Every figure passed the guardrail check._
+
+**Bottom line:** Operating income was **$1,075K vs. $1,186K budget**, a miss despite revenue landing on budget ($2.4M both). Year to date, operating income is **$8.6M vs. $8.9M budget**. Gross margin was 61.3% vs. 65.0% budget, as cost of sales ($931K vs. $839K) outran revenue. Operating expenses were also over budget ($399K vs. $375K).
+
+#### Material variances (biggest first)
+
+- **Grape sales: $1,066K vs. $960K budget (+11.0%, favorable).** Confirm with sales: earlier harvest timing, higher yields, or better pricing?
+- **Citrus sales: $1,339K vs. $1,440K budget (-7.0%, unfavorable).** Flat to prior year, so the miss is against plan. Confirm with ops: lower volumes, weather, or softer pricing?
+- **Harvest labor: $575K vs. $504K budget (+14.0%, unfavorable).** Confirm with ops: overtime, wage rates, or extra crews to bring in the grape volume?
+- **Repairs & maintenance: $78K vs. $55K budget (+42.0%, unfavorable).** Confirm with maintenance: unplanned equipment breakdowns, or pre-winter work pulled forward?
+- **Fuel & diesel: $76K vs. $60K budget (+27.0%, unfavorable).** Confirm with ops: higher diesel prices, or heavier equipment usage during harvest?
+
+#### Watch items for November
+
+1. **Gross margin recovery.** YTD margin is 63.1% vs. 63.7% budget. Confirm whether the October labor and fuel overruns are one-time harvest costs or a new run rate.
+2. **Citrus revenue.** YTD citrus is $11.7M vs. $11.9M budget (-1.4%). Another soft month would widen the gap.
 
 See [`flash_report_2026-10.md`](flash_report_2026-10.md) for the full report.
 
