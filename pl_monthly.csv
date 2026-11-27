@@ -1,0 +1,101 @@
+month,account,category,actual,budget,prior_year
+2026-01,Citrus sales,Revenue,1088066,1080000,1026053
+2026-01,Grape sales,Revenue,703969,720000,676105
+2026-01,Harvest labor,Cost of sales,368629,378000,352225
+2026-01,Packing materials,Cost of sales,139523,135000,128575
+2026-01,Fuel & diesel,Cost of sales,59069,60000,55819
+2026-01,Chemicals & fertilizer,Cost of sales,95848,95000,92111
+2026-01,Salaries & benefits,Operating expenses,253952,260000,248096
+2026-01,Repairs & maintenance,Operating expenses,55956,55000,52186
+2026-01,Utilities,Operating expenses,37565,38000,34057
+2026-01,Insurance,Operating expenses,21291,22000,19227
+2026-02,Citrus sales,Revenue,1014005,1020000,893857
+2026-02,Grape sales,Revenue,684611,680000,611525
+2026-02,Harvest labor,Cost of sales,355332,357000,341388
+2026-02,Packing materials,Cost of sales,125783,127500,108290
+2026-02,Fuel & diesel,Cost of sales,60170,60000,56884
+2026-02,Chemicals & fertilizer,Cost of sales,93865,95000,84435
+2026-02,Salaries & benefits,Operating expenses,254743,260000,236823
+2026-02,Repairs & maintenance,Operating expenses,53890,55000,54584
+2026-02,Utilities,Operating expenses,38840,38000,36051
+2026-02,Insurance,Operating expenses,21939,22000,20386
+2026-03,Citrus sales,Revenue,961531,960000,916242
+2026-03,Grape sales,Revenue,641218,640000,576639
+2026-03,Harvest labor,Cost of sales,323004,336000,337463
+2026-03,Packing materials,Cost of sales,120358,120000,118125
+2026-03,Fuel & diesel,Cost of sales,63001,60000,55460
+2026-03,Chemicals & fertilizer,Cost of sales,92152,95000,93147
+2026-03,Salaries & benefits,Operating expenses,263748,260000,247775
+2026-03,Repairs & maintenance,Operating expenses,55939,55000,51835
+2026-03,Utilities,Operating expenses,38634,38000,35999
+2026-03,Insurance,Operating expenses,21628,22000,22166
+2026-04,Citrus sales,Revenue,889576,900000,862313
+2026-04,Grape sales,Revenue,582192,600000,573054
+2026-04,Harvest labor,Cost of sales,313455,315000,291951
+2026-04,Packing materials,Cost of sales,115721,112500,110919
+2026-04,Fuel & diesel,Cost of sales,58808,60000,53824
+2026-04,Chemicals & fertilizer,Cost of sales,90268,95000,92708
+2026-04,Salaries & benefits,Operating expenses,259368,260000,242183
+2026-04,Repairs & maintenance,Operating expenses,55948,55000,55015
+2026-04,Utilities,Operating expenses,37650,38000,35603
+2026-04,Insurance,Operating expenses,22838,22000,20680
+2026-05,Citrus sales,Revenue,952712,960000,895564
+2026-05,Grape sales,Revenue,638068,640000,617026
+2026-05,Harvest labor,Cost of sales,326642,336000,316548
+2026-05,Packing materials,Cost of sales,118669,120000,113945
+2026-05,Fuel & diesel,Cost of sales,60980,60000,59799
+2026-05,Chemicals & fertilizer,Cost of sales,96587,95000,90158
+2026-05,Salaries & benefits,Operating expenses,266839,260000,243465
+2026-05,Repairs & maintenance,Operating expenses,55802,55000,52238
+2026-05,Utilities,Operating expenses,38329,38000,34138
+2026-05,Insurance,Operating expenses,20881,22000,19414
+2026-06,Citrus sales,Revenue,1114352,1140000,1069116
+2026-06,Grape sales,Revenue,802650,760000,726987
+2026-06,Harvest labor,Cost of sales,392776,399000,365776
+2026-06,Packing materials,Cost of sales,144256,142500,136546
+2026-06,Fuel & diesel,Cost of sales,59691,60000,56577
+2026-06,Chemicals & fertilizer,Cost of sales,96235,95000,92919
+2026-06,Salaries & benefits,Operating expenses,259485,260000,236250
+2026-06,Repairs & maintenance,Operating expenses,53550,55000,52328
+2026-06,Utilities,Operating expenses,37185,38000,36495
+2026-06,Insurance,Operating expenses,22106,22000,21755
+2026-07,Citrus sales,Revenue,1300496,1320000,1258715
+2026-07,Grape sales,Revenue,836050,880000,831825
+2026-07,Harvest labor,Cost of sales,466191,462000,417992
+2026-07,Packing materials,Cost of sales,168492,165000,142701
+2026-07,Fuel & diesel,Cost of sales,61135,60000,52809
+2026-07,Chemicals & fertilizer,Cost of sales,96850,95000,87037
+2026-07,Salaries & benefits,Operating expenses,250011,260000,248362
+2026-07,Repairs & maintenance,Operating expenses,56982,55000,54998
+2026-07,Utilities,Operating expenses,37740,38000,36000
+2026-07,Insurance,Operating expenses,21464,22000,20759
+2026-08,Citrus sales,Revenue,1479642,1500000,1490915
+2026-08,Grape sales,Revenue,980168,1000000,947952
+2026-08,Harvest labor,Cost of sales,508230,525000,485602
+2026-08,Packing materials,Cost of sales,186778,187500,187553
+2026-08,Fuel & diesel,Cost of sales,60020,60000,59318
+2026-08,Chemicals & fertilizer,Cost of sales,94224,95000,87611
+2026-08,Salaries & benefits,Operating expenses,260052,260000,241174
+2026-08,Repairs & maintenance,Operating expenses,54588,55000,51424
+2026-08,Utilities,Operating expenses,37233,38000,34005
+2026-08,Insurance,Operating expenses,21631,22000,22356
+2026-09,Citrus sales,Revenue,1573156,1560000,1416225
+2026-09,Grape sales,Revenue,1002195,1040000,1046543
+2026-09,Harvest labor,Cost of sales,537372,546000,514146
+2026-09,Packing materials,Cost of sales,198583,195000,171514
+2026-09,Fuel & diesel,Cost of sales,70800,60000,56944
+2026-09,Chemicals & fertilizer,Cost of sales,96080,95000,87391
+2026-09,Salaries & benefits,Operating expenses,259071,260000,241391
+2026-09,Repairs & maintenance,Operating expenses,53328,55000,49812
+2026-09,Utilities,Operating expenses,37518,38000,38130
+2026-09,Insurance,Operating expenses,21981,22000,21157
+2026-10,Citrus sales,Revenue,1339200,1440000,1342590
+2026-10,Grape sales,Revenue,1065600,960000,936195
+2026-10,Harvest labor,Cost of sales,574560,504000,475747
+2026-10,Packing materials,Cost of sales,183062,180000,179471
+2026-10,Fuel & diesel,Cost of sales,76200,60000,57918
+2026-10,Chemicals & fertilizer,Cost of sales,97255,95000,84999
+2026-10,Salaries & benefits,Operating expenses,259085,260000,257051
+2026-10,Repairs & maintenance,Operating expenses,78100,55000,53442
+2026-10,Utilities,Operating expenses,38875,38000,37363
+2026-10,Insurance,Operating expenses,22833,22000,20499
